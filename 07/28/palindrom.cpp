@@ -13,7 +13,6 @@ ana
 int char string bool void
 
 8
-
 0 7 i = 0
 1 6 i = 1
 2 5 i = 2
