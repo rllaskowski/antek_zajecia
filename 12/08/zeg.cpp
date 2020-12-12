@@ -23,7 +23,6 @@ int main() {
     cin >> m;
     cin >> s;
 
-
     for(int i=0; i<10; i++){
         s++;
 
